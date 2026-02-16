@@ -1,0 +1,192 @@
+{
+  "version": 1,
+  "base_track": "HELLO to DREAM",
+  "base_artist": "井口裕香",
+  "createdAt": "2026-02-16T17:26:55.731952Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "HELLO to DREAM",
+      "artist": "Yuka Iguchi",
+      "has_synced": true,
+      "path": "select/01_HELLO_to_DREAM_Yuka_Iguchi.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "HELLO to DREAM",
+      "artist": "井口裕香",
+      "has_synced": true,
+      "path": "select/02_HELLO_to_DREAM_井口裕香.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "HELLO to DREAM (Instrumental)",
+      "artist": "井口裕香",
+      "has_synced": true,
+      "path": "select/03_HELLO_to_DREAM_(Instrumental)_井口裕香.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "HELLO to DREAM (From \"DanMachi: Is It Wrong to Try to Pick Up Girls in a Dungeon?\")",
+      "artist": "Akano",
+      "has_synced": true,
+      "path": "select/04_HELLO_to_DREAM_(From__DanMachi__Is_It_Wrong_to_Try_to_Pick_Up_Girls_in_a_Dungeon_Akano.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "HELLO to DREAM",
+      "artist": "井口裕香",
+      "has_synced": true,
+      "path": "select/05_HELLO_to_DREAM_井口裕香.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "HELLO to DREAM",
+      "artist": "Yuka Iguchi",
+      "has_synced": true,
+      "path": "select/06_HELLO_to_DREAM_Yuka_Iguchi.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "HELLO to DREAM (Instrumental)",
+      "artist": "井口裕香",
+      "has_synced": true,
+      "path": "select/07_HELLO_to_DREAM_(Instrumental)_井口裕香.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Hello to the Floor",
+      "artist": "The Duke Spirit",
+      "has_synced": true,
+      "path": "select/08_Hello_to_the_Floor_The_Duke_Spirit.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Say Hello to the Angels",
+      "artist": "Interpol",
+      "has_synced": true,
+      "path": "select/09_Say_Hello_to_the_Angels_Interpol.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Hello To The Cities - Live In Detroit",
+      "artist": "The Doors",
+      "has_synced": false,
+      "path": "select/10_Hello_To_The_Cities_-_Live_In_Detroit_The_Doors.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Hello To The Cities",
+      "artist": "The Doors",
+      "has_synced": false,
+      "path": "select/11_Hello_To_The_Cities_The_Doors.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Hello To The Cities - Live On The Ed Sullivan Show, 1967 And At Cobo Hall, Detroit, 1970",
+      "artist": "The Doors",
+      "has_synced": false,
+      "path": "select/12_Hello_To_The_Cities_-_Live_On_The_Ed_Sullivan_Show,_1967_And_At_Cobo_Hall,_Detro_The_Doors.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Hello To The Cities [Ed Sullivan Show, 1967 and Cobo Hall, Detroit, 1970]",
+      "artist": "The Doors",
+      "has_synced": false,
+      "path": "select/13_Hello_To_The_Cities_[Ed_Sullivan_Show,_1967_and_Cobo_Hall,_Detroit,_1970]_The_Doors.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Say Hello to the Angels",
+      "artist": "Interpol",
+      "has_synced": true,
+      "path": "select/14_Say_Hello_to_the_Angels_Interpol.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Say Hello to Heaven",
+      "artist": "Temple of the Dog",
+      "has_synced": false,
+      "path": "select/15_Say_Hello_to_Heaven_Temple_of_the_Dog.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Say Hello To Goodbye",
+      "artist": "Shontelle",
+      "has_synced": false,
+      "path": "select/16_Say_Hello_To_Goodbye_Shontelle.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "It Meant Goodbye To Me When You Said Hello To Him",
+      "artist": "Merle Haggard",
+      "has_synced": false,
+      "path": "select/17_It_Meant_Goodbye_To_Me_When_You_Said_Hello_To_Him_Merle_Haggard.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Say Hello to the Angels (2012 Remaster)",
+      "artist": "Interpol",
+      "has_synced": true,
+      "path": "select/18_Say_Hello_to_the_Angels_(2012_Remaster)_Interpol.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Hello to the World",
+      "artist": "Leo Ieiri",
+      "has_synced": true,
+      "path": "select/19_Hello_to_the_World_Leo_Ieiri.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Hello To The World",
+      "artist": "家入レオ",
+      "has_synced": true,
+      "path": "select/20_Hello_To_The_World_家入レオ.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Say Hello to Hollowood",
+      "artist": "t+pazolite feat. Nene Akagawa",
+      "has_synced": false,
+      "path": "select/21_Say_Hello_to_Hollowood_t+pazolite_feat._Nene_Akagawa.txt"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "Say Hello to HOLLOWood",
+      "artist": "t+pazolite",
+      "has_synced": false,
+      "path": "select/22_Say_Hello_to_HOLLOWood_t+pazolite.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "HELLO to DREAM",
+      "artist": "井口裕香",
+      "has_synced": false,
+      "path": "select/pl_01_HELLO_to_DREAM_井口裕香.txt"
+    }
+  ]
+}
